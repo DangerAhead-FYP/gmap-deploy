@@ -40,8 +40,8 @@ const options = {
     zoomControl: true,
 };
 const center = {
-    lat: 43.6532,
-    lng: -79.3832,
+    lat: 26.689742349655745,
+    lng: 88.43101736489807,
 };
 
 function Maps() {
