@@ -1,38 +1,99 @@
-.App {
+/* Font Family  */
+.inter {
+  font-family: 'Inter', sans-serif;
+}
+
+.habibi {
+  font-family: 'Habibi', serif;
+}
+
+.poppins {
+  font-family: 'Poppins', sans-serif;
+}
+
+.open-sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Color Palette  */
+.soft-black {
+  color: #3e3e3e;
+}
+
+.orange {
+  color: #E6432D;
+}
+
+.grey {
+  color: #3a3a3a;
+}
+
+.light-grey {
+  color: #626262;
+}
+
+.dark-grey {
+  color: #494848;
+}
+
+/* Font Size  */
+.f-50 {
+  font-size: 50px;
+}
+
+.f-30 {
+  font-size: 30px;
+}
+
+.f-22 {
+  font-size: 22px;
+}
+
+.f-20 {
+  font-size: 20px;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+/* Buttons  */
+.red-btn {
+  color: white;
+  background-color: #E6432D;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  border: none;
+  padding: 7px 15px;
+}
+
+.red-btn-outline {
+  color: #E6432D;
+  background-color: white;
+  font-family: 'Poppins', sans-serif;
+  border: 1.5px solid #E6432D;
+  border-radius: 8px;
+  padding: 5px 20px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.red-btn-outline:hover {
   color: white;
+  background-color: #E6432D;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.red-btn-outline-colored {
+  color: #E6432D;
+  background-color: #FFE5E2;
+  font-family: 'Poppins', sans-serif;
+  border: 1.5px solid #E6432D;
+  border-radius: 8px;
+  padding: 1px 18px;
+  font-size: 12px;
+  text-align: center;
 }
