@@ -19,7 +19,7 @@ export default function Navbar(props) {
                         <Link to="/" className={`nav-link ${props.active === "home" ? "active" : ""}`}>Home</Link>
                     </li>
                     <li className="nav-item">
-                        <Link to="/accidents" className={`nav-link ${props.active === "accidents" ? "active" : ""}`}>Show all Accidents</Link>
+                        <Link to="/accidents" className={`nav-link ${props.active === "accidents" ? "active" : ""}`}>Show All Accidents</Link>
                     </li>
                     <li className="nav-item">
                         <Link to="/analysis" className={`nav-link ${props.active === "analysis" ? "active" : ""}`}>Analysis</Link>
