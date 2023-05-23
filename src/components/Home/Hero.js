@@ -5,8 +5,8 @@ import hero_img from "../../images/hero-img.png"
 export default function Hero() {
   return (
     <div>
-        <div className="my-5">
-            <div className="row flex-lg-row align-items-center py-3 w-100">
+        <div className="">
+            <div className="hero row flex-lg-row align-items-center py-3 w-100">
             <div className="col-text col-lg-6 col-12">
                 <h1 className="poppins f-50 lh-1 mb-3">Aiming for <br/>
                 Acci-less Roads</h1>

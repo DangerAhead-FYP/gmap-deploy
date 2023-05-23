@@ -1,0 +1,13 @@
+.bar-graph{
+    background-color: #f8c6bf36;
+}
+.bar{
+    margin: 70px 0;
+    height: 500px !important;
+}
+.acc-title{
+    position: relative;
+    margin: auto;
+    text-align: center;
+    top: 80px;
+}

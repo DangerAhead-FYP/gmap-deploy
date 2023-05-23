@@ -1,29 +1,17 @@
 import React from "react";
-import {
-    GoogleMap,
-    useLoadScript,
-    Marker,
-    InfoWindow,
-} from "@react-google-maps/api";
-import usePlacesAutocomplete, {
-    getGeocode,
-    getLatLng,
-} from "use-places-autocomplete";
-import {
-    Combobox,
-    ComboboxInput,
-    ComboboxPopover,
-    ComboboxList,
-    ComboboxOption,
-} from "@reach/combobox";
+import {GoogleMap,useLoadScript,Marker,InfoWindow,} from "@react-google-maps/api";
+import usePlacesAutocomplete, {getGeocode,getLatLng,} from "use-places-autocomplete";
+import {Combobox,ComboboxInput,ComboboxPopover,ComboboxList,ComboboxOption,} from "@reach/combobox";
 import { MarkerF, InfoWindowF, InfoBoxF } from "@react-google-maps/api";
 import customMarker from "../../images/acci.png";
 import { formatRelative } from "date-fns";
 import acci from "../../data.json";
 import "@reach/combobox/styles.css";
-import Card_Accidents from "./Card_Accidents";
+import "./Card_Accidents";
+import "./Card_Accidents_Details";
 // import mapStyles from "./mapStyles";
 import accident_img from "../../images/accident-img.png"
+import "../../stylesheets/Accidents/maps.css"
 import { MdLocationOn } from 'react-icons/md';
 import { SlCalender } from 'react-icons/sl';
 import { AiOutlineClockCircle } from 'react-icons/ai';
@@ -33,6 +21,9 @@ const libraries = ["places"];
 const mapContainerStyle = {
     height: "90vh",
     width: "100vw",
+    position: "relative",
+    top: "33px",
+    overflow: "hidden"
 };
 const options = {
     // styles: mapStyles,
@@ -75,11 +66,11 @@ function Maps() {
 
     return (
         <div>
-            <Search panTo={panTo} />
+            <Search panTo={panTo} className=""/>
             <GoogleMap
                 id="map"
                 mapContainerStyle={mapContainerStyle}
-                zoom={8}
+                zoom={18}
                 center={center}
                 options={options}
                 // onClick={onMapClick}
@@ -142,6 +133,71 @@ function Maps() {
                     </InfoWindowF>
                 )}
             </GoogleMap>
+            {selectedAcciDet && 
+                <div className="card-accidents-details">
+                <img
+                  className="card-img-top"
+                  src={accident_img}
+                  alt="Card image cap"
+                />
+                <ImCross className="details-cross" onClick={details_close}/>
+                <div className="card-body">
+                    <div className="">
+                      <h6 className='f-20 inter mb-0'>
+                        {selectedAcciDet.title}
+                      </h6>
+                      <p className='fw-semibold f-12 light-grey'><span className='orange'><MdLocationOn /></span>
+                        Venus More, Siliguri</p>
+                        <p className='fw-semibold f-12 dark-grey mb-0'><span><SlCalender /></span>
+                    &nbsp; {selectedAcciDet.eventDate}&nbsp; <span><AiOutlineClockCircle /></span>&nbsp; {selectedAcciDet.eventTime} </p>
+                    </div>
+                    <br/>
+
+                  <p className='habibi f-12 grey lh-sm'>{selectedAcciDet.desc}</p>
+                  <div className="habibi f-12">
+                        <p>Level of Damage : <button className="red-btn-outline-colored">Severe</button></p>
+                    </div>
+                  <p className='habibi f-12 lh-sm m-0'>Number of injured : {selectedAcciDet.NumberOfInjured}</p>
+                  <p className='habibi f-12 lh-sm m-0'>Number of deaths : {selectedAcciDet.NumberOfDeaths} </p>
+                  <div className="row card-data">
+                        <p className='poppins f-12 lh-sm m-0 light-grey p-0'><BsFillInfoCircleFill className=""/> Road Information</p>
+                        <br/>
+                        <div className="col-6 p-0">
+                            <h6 className='f-12 poppins mb-1 light-grey'>
+                                TRAFFIC LIGHTS : <span className={`${selectedAcciDet.RoadData.TrafficLights=="Yes"?"text-success":"text-danger"}`}>{selectedAcciDet.RoadData.TrafficLights}</span> 
+                            </h6>
+                            <h6 className='f-12 poppins mb-0 light-grey'>
+                                STREET LIGHTS :  <span className={`${selectedAcciDet.RoadData.StreetsLight=="Yes"?"text-success":"text-danger"}`}>{selectedAcciDet.RoadData.StreetsLight}</span>
+                            </h6>
+
+                        </div>
+                        <div className="col-6 p-0">
+                        <h6 className='f-12 poppins mb-1 light-grey'>
+                                TRAFFIC OFFICER : <span className={`${selectedAcciDet.RoadData.TrafficOfficer=="Yes"?"text-success":"text-danger"}`}>{selectedAcciDet.RoadData.TrafficOfficer}</span>
+                            </h6>
+                            <h6 className='f-12 poppins mb-0 light-grey'>
+                                ROAD CONDITION:  <span className={`${selectedAcciDet.RoadData.RoadCondition=="Good"?"text-success":"text-warning"}`}>{selectedAcciDet.RoadData.RoadCondition}</span>
+                            </h6>
+                        </div>
+                </div>
+                <div className="card-data">
+                <p className='poppins f-12 lh-sm m-0 light-grey'><BsFillInfoCircleFill className=""/> Crucial Details</p>
+                    <h6 className="orange f-12 my-3">
+                        Cause
+                    </h6>
+                    <p className="habibi grey f-12 lh-sm">
+                    The most important thing of course is your personal safety. As soon as you are in an accident, assess the damage to yourself and the passengers in your car first before investigating the damage to your car or the other person’s vehicle.
+                    </p>
+                    <h6 className="orange f-12 my-3">
+                    Preventive Measures
+                    </h6>
+                    <p className="habibi grey f-12 lh-sm">
+                    The most important thing of course is your personal safety. As soon as you are in an accident, assess the damage to yourself and the passengers in your car first before investigating the damage to your car or the other person’s vehicle.
+                    </p>
+                </div>
+                </div>
+              </div>
+            }
         </div>
     );
 }
@@ -182,7 +238,7 @@ function Search({ panTo }) {
     };
 
     return (
-        <div className="">
+        <div className="search">
             <Combobox onSelect={handleSelect}>
                 <ComboboxInput
                     value={value}
