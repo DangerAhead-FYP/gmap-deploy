@@ -24,7 +24,7 @@ const containerStyle = {
     height:" 92vh",
     position: "absolute",
     overflow: "hidden",
-    top: "60px"
+    top: "15px"
 };
 
 // let center = {
@@ -314,6 +314,7 @@ function Search({ panTo }) {
                     onChange={handleInput}
                     disabled={!ready}
                     placeholder="Search your location"
+                    className="search-input"
                 />
                 <ComboboxPopover>
                     <ComboboxList>
