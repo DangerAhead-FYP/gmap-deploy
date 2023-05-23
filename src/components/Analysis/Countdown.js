@@ -23,10 +23,10 @@ export default function Countdown() {
       <div className="timer-wrapper">
         <CountdownCircleTimer
           isPlaying
-          duration={10}
-          colors={["#E6432D","#e6682d","#e6b52d","#e6902d"]}
-          colorsTime={[10, 6, 3, 0]}
-          onComplete={() => ({ shouldRepeat: true, delay: 1 })}
+          duration={16}
+          colors={["#E6432D","#e6682d","#e4942c","#e6b52d","#fad46c"]}
+          colorsTime={[16,12, 8, 4, 0]}
+          onComplete={() => ({ shouldRepeat: true, delay: 0 })}
           strokeWidth={20}
         >
           {renderTime}

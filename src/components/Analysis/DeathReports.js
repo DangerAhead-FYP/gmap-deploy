@@ -12,7 +12,7 @@ export default function DeathReports() {
                     <Countdown/>
                     <br/>
                     <p className="inter light-grey m-0">According to World Health Organisation ( WHO )</p>
-                    <h4 className="soft-black inter mb-5">A person dies every 10 seconds in a road accident</h4>
+                    <h4 className="soft-black inter mb-5">A person dies every 16 seconds in a road accident</h4>
                 </div>
                 <div className="container row d-row-center col-12 m-auto">
                     <div id="kpi1" className="col-lg-3 col-sm-6 col-12 d-row-center my-3">

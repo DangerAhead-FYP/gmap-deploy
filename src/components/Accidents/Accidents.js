@@ -7,8 +7,8 @@ export default function Accidents(props) {
   return (
     <div>
       <Navbar active={props.active} />
-      <Maps />      
-      {/* <Test/> */}
+      {/* <Maps />       */}
+      <Test/>
     </div>
   )
 }
