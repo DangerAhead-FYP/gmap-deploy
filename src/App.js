@@ -8,7 +8,7 @@ import {
 import Home from "../src/components/Home/Home"
 import Accidents from "./components/Accidents/Accidents"
 import Analysis from "./components/Analysis/Analysis"
-import Markaccidents from "../src/components/Markaccidents"
+import Markaccidents from "../src/components/MarkAccidents/Markaccidents"
 
 function App() {
   return (
