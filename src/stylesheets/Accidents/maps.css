@@ -14,6 +14,16 @@
     z-index: 3;
     text-align: center;
 }
+.search-input{
+    padding: 8px;
+    border-radius: 5px;
+    border : 2px solid #b5b3b3;
+    width: 350px;
+}
+.search-input:focus {
+    outline: 3.5px solid rgba(34, 114, 235, 0.616);
+    border: none;
+  }
 .currI {
     width: 34px;
     height: 34px;

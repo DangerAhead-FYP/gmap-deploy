@@ -22,7 +22,7 @@ const mapContainerStyle = {
     height: "90vh",
     width: "100vw",
     position: "relative",
-    top: "33px",
+    top: "15px",
     overflow: "hidden"
 };
 const options = {
@@ -238,13 +238,16 @@ function Search({ panTo }) {
     };
 
     return (
+        
         <div className="search">
+            
             <Combobox onSelect={handleSelect}>
                 <ComboboxInput
                     value={value}
                     onChange={handleInput}
                     disabled={!ready}
                     placeholder="Search your location"
+                    className="search-input"
                 />
                 <ComboboxPopover>
                     <ComboboxList>
