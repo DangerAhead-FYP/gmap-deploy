@@ -1,0 +1,193 @@
+{
+    "data":[
+        {
+            "id":0,
+            "x":  26.757906232693887, 
+            "y": 88.39604002254431,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":1,
+            "x":   26.7883754808087, 
+            "y": 88.36397137915986,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":2,
+            "x":   26.77491222145245, 
+            "y": 88.38636634030082,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":3,
+            "x":   26.678612120921944, 
+            "y": 88.47644745514451,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":4,
+            "x":   26.68401358725335, 
+            "y": 88.46544130554715,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":5,
+            "x":  26.757906232693887, 
+            "y": 88.39604002254431,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        },
+        {
+            "id":6,
+            "x":   26.71544668039202, 
+            "y": 88.45652225146478,
+            "URL": "Possible_image_of_the_accident",
+            "title": "Pot Holes",
+            "desc": "The most important thing of course is the car driver was distracted by a phone, GPS, or other passengers, causing them to not notice the bike on the road. Also,poor visibility due to weather conditions, low lighting, or obstructed views can contribute to car-bike accidents if either party is unable to see each other clearly.",
+            "eventDate" :"24-02-23",
+            "eventTime" : "12:18 PM",
+            "NumberOfInjured": 2,
+            "NumberOfDeaths": 2,
+            "LevelOfAccident" : "Critical",
+            "Mode": "Car-Car",
+            "SuggestionData": 
+            {
+                "MeasuresToPrevent": "Long description ",
+                "ResponisbleFor": "Street Lights",
+                "contact": 7001252846
+            },
+            "RoadData": 
+            {
+                "StreetsLight": "Yes",
+                "TrafficLights": "No",
+                "TrafficOfficer": "No",
+                "RoadCondition": "Poor"
+          }
+        }
+    ]
+}

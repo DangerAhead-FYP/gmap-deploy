@@ -19,6 +19,7 @@
     border-radius: 5px;
     border : 2px solid #b5b3b3;
     width: 350px;
+    background-color: white;
 }
 .search-input:focus {
     outline: 3.5px solid rgba(34, 114, 235, 0.616);

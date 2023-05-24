@@ -11,7 +11,7 @@
         "eventTime" : "12:18 PM",
         "NumberOfInjured": 2,
         "NumberOfDeaths": 2,
-        "LevelOfAccident" : "Criticle",
+        "LevelOfAccident" : "Critical",
         "Mode": "Car-Car",
         "SuggestionData": 
           {
@@ -202,6 +202,1178 @@
       "id":7,
         "x":26.769290864950857, 
         "y": 88.37616388253649,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    },
+    {
+      "id":8,
+        "x":26.752336088179725, 
+        "y": 88.44391312801517,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    },
+    {
+      "id":9,
+        "x": 26.753283211662247, 
+        "y": 88.44543873456529,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    },
+    {
+      "id":10,
+        "x": 26.7565007775475,
+        "y":  88.4413704504218,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    },
+    {
+      "id":11,
+        "x":26.75516446084085,
+        "y":  88.44090550366256,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":12,
+        "x": 26.75386705094667, 
+        "y": 88.44036790897216,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":13,
+        "x":26.752336088179725, 
+        "y": 88.44391312801517,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":14,
+        "x": 26.7549828243473, 
+        "y": 88.44083285573143,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":15,
+        "x": 26.749481695774044, 
+        "y": 88.43879871364082,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":16,
+        "x": 26.732708770460707, 
+        "y": 88.41016304550776,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":17,
+        "x": 26.730064085249566, 
+        "y": 88.4121371513265,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":18,
+        "x": 26.73588997700711, 
+        "y": 88.40771687090628,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":19,
+        "x": 26.723547931747184, 
+        "y": 88.39561474386598,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":20,
+        "x": 26.742826998288148, 
+        "y": 88.38810455868598,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":21,
+        "x": 26.72240950362333, 
+        "y": 88.38121354060117,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":22,
+        "x": 26.761326781458997, 
+        "y": 88.38723342611279,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":23,
+        "x": 26.771494064849083, 
+        "y": 88.37797163445778,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car-Bike Accident",
+        "desc": "In a car-bike accident, a collision occurred between a car and a bicycle, resulting in significant damage and potential injuries. The incident took place at an intersection, where the car and the cyclist were both traveling in different directions. Due to a momentary lapse in attention or misjudgment, the car driver failed to notice the cyclist and collided with them. The impact caused the cyclist to be thrown off their bike, while the car sustained damage to its front section. ",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Critical",
+        "Mode": "Car-Bike",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":24,
+        "x": 26.78832460372775, 
+        "y": 88.36399277648543,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":25,
+        "x":26.78957208233731,
+        "y":  88.31650929275521,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":26,
+        "x": 26.72186399741025, 
+        "y": 88.4275788487627,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":27,
+        "x": 26.728429651140726, 
+        "y": 88.43056034191031,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":28,
+        "x": 26.733617627032174, 
+        "y": 88.43256513902678,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":29,
+        "x": 26.737666430542653, 
+        "y": 88.41657894933023,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":30,
+        "x": 26.739976461099996, 
+        "y": 88.42363266788105,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":31,
+        "x": 26.73775353852896, 
+        "y": 88.42637924988975,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":32,
+        "x": 26.738788352717336, 
+        "y": 88.43058495359053,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":33,
+        "x": 26.7353330300977, 
+        "y": 88.42711813734579,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":34,
+        "x":26.752336088179725, 
+        "y": 88.44391312801517,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":35,
+        "x": 26.70714884078552, 
+        "y": 88.42802015958002,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":36,
+        "x": 26.707169647823182, 
+        "y": 88.42804947330207,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":37,
+        "x": 26.71107424696632, 
+        "y": 88.44306129490954,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":38,
+        "x": 26.748344446623648, 
+        "y": 88.36089046193224,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":39,
+        "x": 26.753463352148614,
+        "y":  88.35702106638664,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":40,
+        "x": 26.789497683959944, 
+        "y": 88.31677293684473,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":41,
+        "x": 26.779830187336355, 
+        "y": 88.3282801614899,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":42,
+        "x": 26.790097897267646, 
+        "y": 88.33693240119544,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":43,
+        "x": 26.728886509233202, 
+        "y": 88.38930875449331,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":44,
+        "x":26.75590417664134, 
+        "y": 88.35594885238555,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":46,
+        "x":  26.722619054228982, 
+        "y": 88.40250610219593,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":47,
+        "x": 26.76680588852286, 
+        "y": 88.28848462117486,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":48,
+        "x":  26.720733236530613, 
+        "y": 88.40831720944637,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":49,
+        "x":  26.720205025316083, 
+        "y": 88.39521310051406,
+        "URL": "Possible_image_of_the_accident",
+        "title": "Car Accident",
+        "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "eventDate" :"24-02-23",
+        "eventTime" : "12:08 PM",
+        "NumberOfInjured": 4,
+        "NumberOfDeaths": 2,
+        "LevelOfAccident" : "Criticle",
+        "Mode": "Car-Car",
+        "SuggestionData": 
+          {
+            "MeasuresToPrevent": "Long description ",
+            "ResponisbleFor": "Street Lights",
+            "contact": 7001252846
+          },
+        "RoadData": 
+          {
+            "StreetsLight": "Yes",
+            "TrafficLights": "No",
+            "TrafficOfficer": "No",
+            "RoadCondition": "Poor"
+          }
+    }
+    ,
+    {
+      "id":50,
+        "x": 26.711435742733503, 
+        "y": 88.41841764387675,
         "URL": "Possible_image_of_the_accident",
         "title": "Car Accident",
         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",

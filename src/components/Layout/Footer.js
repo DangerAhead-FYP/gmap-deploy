@@ -3,6 +3,7 @@ import { ImLinkedin2 } from "react-icons/im";
 import { BsTwitter } from "react-icons/bs";
 import { ImFacebook } from "react-icons/im";
 import "../../stylesheets/Layout/Footer.css"
+import { Link } from "react-router-dom";
 export default function Footer() {
     return (
         <div>
@@ -15,21 +16,21 @@ export default function Footer() {
               </h5>
               <ul className="nav flex-column">
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
+                <a href={"https://www.makeroadssafe.org/blog/"} className="text-decoration-none">
                     <p className="poppins f-14 text-white mb-0 fw-light">
                     Road health safety
                     </p>
                 </a>
                 </li>
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
+                <a href={"https://www.cholainsurance.com/knowledge-center/blogs/5-top-causes-of-road-accident"} className="text-decoration-none">
                     <p className="poppins f-14 text-white mb-0 fw-light">
                     Risk factors for increasing accidents
                     </p>
                 </a>
                 </li>
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
+                <a href={"https://www.geico.com/information/safety/auto/teendriving/top-ten-tips/"} className="text-decoration-none">
                     <p className="poppins f-14 text-white mb-0 fw-light">
                     Ways to avoid or reduce accidents
                     </p>
@@ -44,27 +45,26 @@ export default function Footer() {
               </h5>
               <ul className="nav flex-column">
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
-                    <p className="poppins f-14 text-white mb-0 fw-light">
+                  <Link to="/accidents" className="text-decoration-none">
+                  <p className="poppins f-14 text-white mb-0 fw-light">
                     Accidents
                     </p>
-                </a>
+                  </Link>
                 </li>
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
-                    <p className="poppins f-14 text-white mb-0 fw-light">
-                    Analysis
+                  <Link to="/analysis" className="text-decoration-none">
+                  <p className="poppins f-14 text-white mb-0 fw-light">
+                  Analysis
                     </p>
-                </a>
+                  </Link>
                 </li>
                 <li className="nav-item mb-2">
-                <a href={"https://google.com"} className="text-decoration-none">
-                    <p className="poppins f-14 text-white mb-0 fw-light">
-                    Mark an Accident
+                  <Link to="/markaccidents" className="text-decoration-none">
+                  <p className="poppins f-14 text-white mb-0 fw-light">
+                  Mark an Accident
                     </p>
-                </a>
-                </li>
-               
+                  </Link>
+                </li>               
               </ul>
             </div>          
             <div className="col-sm-4 col-12">
